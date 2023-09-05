@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JAGADESH-S
+- 👋 Hi, I’m @Jagadesh
 - 👀 I’m interested in product development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
